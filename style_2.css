@@ -1,0 +1,87 @@
+.bigbody{
+  overflow: hidden;
+  background-color: pink;
+  height: auto;
+  width: auto;
+}
+
+#left_body{
+  height: auto;
+  float: left;
+  padding: 0px;
+}
+
+#propic{
+  width: 100%;
+  height: auto;
+}
+
+#right_body{
+  float: right;
+  padding: 0px;
+}
+
+#name{
+  font-family: Calibri;
+  font-size: 80px;
+  font-weight: normal;
+  text-align: center;
+  height: 100px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+#intro{
+  font-family: HelloAnnie;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+.nav-link {
+  color: black;
+}
+
+.nav-pills .nav-link.active{
+  background-color: #e87a;
+}
+
+a:hover {
+  color: grey;
+}
+
+.tab-content{
+  width: 100%;
+  height: 100%;
+}
+
+.nav-item{
+  width: 50%;
+  text-align: center;
+}
+
+#in-photo-2 {
+  visibility: hidden;
+  width:100%;
+  position: absolute;
+}
+
+#about-me{
+  text-align: center;
+  font-size: 15px;
+  
+}
+
+#past{
+  text-align: center;
+  font-size: 15px;
+  vertical-align: middle;
+}
+
+#photo-2{
+  width: 100%;
+}
+
+#pills-tab {
+  margin-bottom: 0px !important;
+}
